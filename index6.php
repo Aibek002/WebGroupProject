@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/stylePage6.css">
     <link rel="stylesheet" href="css/mobil.css">
-    <title>Page 6</title>
+    <!-- <title>Page 6</title> -->
 </head>
 
 <body>
